@@ -1,1 +1,1 @@
-ruptor
+Shell input and outpul redirection

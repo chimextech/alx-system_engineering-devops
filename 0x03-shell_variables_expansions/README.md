@@ -1,1 +1,1 @@
-beta
+Shell variables expansions script list.
